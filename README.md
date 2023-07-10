@@ -1,4 +1,4 @@
-# Visualizer
+# Sorting Algorithm Visualizer
 ## This Project helps in  Visualization of Different Sorting  Algorithms in Python.
 In this repository I had simulated  various Sorting Algorithms  in Python using  VS Code Editor for better understanding and  Performance Analysis for different size of datasets. 
 All plots are generated using Matplotlib library in Python.
